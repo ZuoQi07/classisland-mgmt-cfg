@@ -19,6 +19,6 @@
     },
     "DefaultSettingsSource": {
         "Value": "https://raw.githubusercontent.com/ZuoQi07/classisland-mgmt-cfg/master/settings.json",
-        "Version": 1
+        "Version": 3
     }
 }
