@@ -1,8 +1,4 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "浙江工业大学附属德清高级中学",
-    "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/ZuoQi07/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
-    }
+    "OrganizationName": "浙江工业大学附属德清高级中学"
 }
