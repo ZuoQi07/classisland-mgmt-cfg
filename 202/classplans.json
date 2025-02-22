@@ -1826,7 +1826,7 @@
         "OverlaySourceId": null,
         "OverlaySetupTime": "2025-02-14T12:10:35.6334922+08:00",
         "IsEnabled": true,
-        "AssociatedGroup": "00000000-0000-0000-0000-000000000000",
+        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
         "AttachedObjects": {
           "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
             "IsEnabled": true,
