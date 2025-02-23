@@ -2,9 +2,9 @@
     "DisableProfileClassPlanEditing": false,
     "DisableProfileTimeLayoutEditing": false,
     "DisableProfileSubjectsEditing": false,
-    "DisableProfileEditing": false,
+    "DisableProfileEditing": true,
     "DisableSettingsEditing": false,
     "DisableSplashCustomize": true,
     "DisableDebugMenu": false,
-    "AllowExitManagement": true
+    "AllowExitManagement": false
 }
