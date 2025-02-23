@@ -15,6 +15,6 @@
     },
     "PolicySource": {
         "Value": "https://classisland.netlify.app/policy.json",
-        "Version": 4
+        "Version": 5
     }
 }
