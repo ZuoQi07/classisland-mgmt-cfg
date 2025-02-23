@@ -7,7 +7,7 @@
     },
     "TimeLayoutSource": {
         "Value": "https://classisland.netlify.app/timelayouts.json",
-        "Version": 3
+        "Version": 4
     },
     "SubjectsSource": {
         "Value": "https://classisland.netlify.app/subjects.json",
