@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "德高科创社社长-胡逸轩",
+    "OrganizationName": "浙江工业大学附属德清高级中学",
     "ClassPlanSource": {
         "Value": "https://classisland.netlify.app/{id}/classplans.json",
         "Version": 15
@@ -15,6 +15,6 @@
     },
     "PolicySource": {
         "Value": "https://classisland.netlify.app/policy.json",
-        "Version": 8
+        "Version": 9
     }
 }
