@@ -3,7 +3,7 @@
     "OrganizationName": "浙江工业大学附属德清高级中学",
     "ClassPlanSource": {
         "Value": "https://classisland.netlify.app/{id}/classplans.json",
-        "Version": 16
+        "Version": 17
     },
     "TimeLayoutSource": {
         "Value": "https://classisland.netlify.app/timelayouts.json",
