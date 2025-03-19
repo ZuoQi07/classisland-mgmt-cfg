@@ -7,11 +7,11 @@
     },
     "TimeLayoutSource": {
         "Value": "https://classisland.netlify.app/timelayouts.json",
-        "Version": 5
+        "Version": 6
     },
     "SubjectsSource": {
         "Value": "https://classisland.netlify.app/subjects.json",
-        "Version": 4
+        "Version": 5
     },
     "PolicySource": {
         "Value": "https://classisland.netlify.app/policy.json",
